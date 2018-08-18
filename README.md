@@ -8,6 +8,7 @@ But you might have already been exposed since GitHub puts the README preview aft
 
 Currently saving the native-format solution files that are produced by the game.
 I'll revisit the readability of this repo later, after making additional progress.
+So far, GitHub.com is unhappy with previewing the solutions, but you can output the ASCII with `cat` or `less`.
 
 If these save games are useful or interesting,
 take comfort that I don't care to enforce some arbitrary copyright on some fun game-related code;

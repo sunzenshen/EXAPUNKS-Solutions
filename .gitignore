@@ -3,3 +3,5 @@
 !.gitignore
 !README.md
 !*.solution
+!*.txt
+!*.sh

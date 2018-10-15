@@ -1,5 +1,6 @@
 PB038
 NEW SOLUTION 1
+NOTE =================XM
 NOOP
 NOOP
 LINK 800
@@ -20,6 +21,7 @@ NOOP
 LINK 3
 LINK 3
 COPY X #NERV
+NOTE =================XH
 NOOP
 LINK 800
 @REP 3
@@ -37,6 +39,7 @@ MARK DISPATCH
 LINK -3
 @END
 COPY X #NERV
+NOTE =================XP
 LINK 800
 @REP 4
 LINK 3

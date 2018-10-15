@@ -1,5 +1,6 @@
 PB006B
 FIRST TRY
+NOTE =================XA
 GRAB 300
 COPY F X
 DROP
@@ -25,6 +26,7 @@ COPY X F
 COPY T F
 DROP
 HALT
+NOTE =================XB
 LINK 800
 LINK 801
 COPY #DATE M

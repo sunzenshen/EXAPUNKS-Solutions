@@ -1,5 +1,6 @@
 PB003B
 FIRST TRY
+NOTE =================XA
 GRAB 300
 COPY F M
 COPY F M
@@ -8,6 +9,7 @@ COPY F M
 COPY F M
 WIPE
 HALT
+NOTE =================XB
 LINK 800
 GRAB 200
 SEEK 9999

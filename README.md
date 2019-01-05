@@ -3,7 +3,7 @@ EXAPUNKS Solutions
 
 Personal save files for the imaginary super-teeny-tiny robot programming game [EXAPUNKS](http://www.zachtronics.com/exapunks/).
 
-Spoiler warning since the file names imply the theme the challenges.
+Spoiler warning since the file names imply the theme of the challenges.
 But you might have already been exposed since GitHub puts the README preview after the file list. ^_^;
 
 Currently saving the native-format solution files that are produced by the game.
